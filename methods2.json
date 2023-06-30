@@ -1,0 +1,17 @@
+[
+    "!nfo-quartz",
+    "!ovh-quartz",
+    "!nfo-slap",
+    "!ovh-tcp",
+    "!ovh-cpu",
+    "!ovh-slap",
+    "!ovh-vpn",
+    "!quartz-tls",
+    "!quartz-l7",
+    "!quartz-hold",
+    "!quartz-udp",
+    "!quartz-hex",
+    "!quartz-xtd",
+    "!quartz-tcp",
+    "!kill"
+]
